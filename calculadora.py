@@ -11,18 +11,18 @@ print("Seu IMC é: ", imc)
 numero__1 = int(input("Digite o primeiro numero: ")) # 5
 numero__2 = int(input("Digite o segundo numero: ")) # 2
 
-soma = numero_1 + numero_2
-subtracao = numero_1 - numero_2
-multiplicacao = numero_1 * numero_2
-divisao = numero_1 / numero_2
-divisao_inteira = numero1 // numero_2
-modulo =numero_1 % numero_2
-exponenciacao = numero_1 ** numero_2
+soma = numero__1 + numero__2
+subtracao = numero__1 - numero__2
+multiplicacao = numero__1 * numero__2
+divisao = numero__1 / numero__2
+divisao_inteira = numero__1 // numero__2
+modulo =numero__1 % numero__2
+exponenciacao = numero__1 ** numero__2
 
 print(soma) # 7
 print(subtracao) # 3
 print(multiplicacao) # 10
 print(divisao) # 2.5
-print(divisao__inteira) # 2
+print(divisao_inteira) # 2
 print(modulo) # 1
 print(exponenciacao) # 25
